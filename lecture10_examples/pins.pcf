@@ -1,3 +1,5 @@
+set_io clk 20
+
 set_io btn[0] 21
 set_io btn[1] 12
 set_io btn[2] 19
