@@ -1,0 +1,23 @@
+set_io clk 20
+
+set_io btn[0] 21
+set_io btn[1] 12
+set_io btn[2] 19
+set_io btn[3] 13
+
+set_io sw[0] 18
+set_io sw[1] 11
+set_io sw[2] 9
+set_io sw[3] 6
+set_io sw[4] 44
+set_io sw[5] 4
+set_io sw[6] 3
+set_io sw[7] 48
+
+set_io led[0] 45
+set_io led[1] 47
+set_io led[2] 46
+set_io led[3] 2
+set_io led[4] 42
+set_io led[5] 38
+set_io led[6] 28
